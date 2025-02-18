@@ -1,0 +1,137 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.container{
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin: auto;
+
+}
+.container video{
+    width: 100%;
+    height: auto;
+    display: block;
+    border: solid 1vw white;
+    border-radius: 10vw;
+}
+.container .text{
+    position: absolute;
+    color:white;
+    font-family: arial black;
+    font-weight: bolder;
+    text-shadow: 2px 2px 5px ;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 5vw;
+    text-align: center;
+    white-space: nowrap;
+    
+}
+
+.container2{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(batman3.jpg) ;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.head1{
+    color: white;
+    font-family: arial black;
+    padding: 4vw;
+    text-shadow: 0 0 7px rgba(0, 0, 0, 1);
+}
+
+.description{
+    color: white;
+    font-family: arial black;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    font-weight: bolder;
+    font-size: medium;
+    text-shadow: 0 0 7px rgba(0, 0, 0, 1);
+   
+}
+
+.trailer{
+    padding: 4vw;
+    
+    
+}
+
+.container3{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(inter2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container4{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(bld-run.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container5{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(allthe.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container6{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(joker\ 2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container7{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(incep2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container8{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(dune2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container9{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(reve2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container10{
+    margin-top: 2vw;
+    border: solid 1vw white;
+    border-radius: 10vw;
+    background-image: url(child2.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
